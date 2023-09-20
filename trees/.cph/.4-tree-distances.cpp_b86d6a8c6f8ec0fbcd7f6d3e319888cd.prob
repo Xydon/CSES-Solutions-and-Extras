@@ -1,0 +1,1 @@
+{"name":"Local: 4-tree-distances","url":"c:\\Users\\Snehal\\Desktop\\cses\\trees\\4-tree-distances.cpp","tests":[{"id":1695123856590,"input":"5\n1 2\n1 3\n3 4\n3 5","output":"2 3 2 3 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Snehal\\Desktop\\cses\\trees\\4-tree-distances.cpp","group":"local","local":true}
